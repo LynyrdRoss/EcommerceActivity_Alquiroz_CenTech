@@ -12,6 +12,7 @@
 * Laravel Framework
 * Bootstrap
 * Basic JavaScript
+* Paypal payment method
 
 ### *"/home"*
 Home page with website goals and features
@@ -42,7 +43,7 @@ Customer's cart items and total price
 
 
 ### *"/confirmation"*
-Customer's payment method *"__PAYPAL__"
+Customer's payment method *"__PAYPAL__"*
 
 ![Confirmation Page](https://github.com/LynyrdRoss/EcommerceActivity_Alquiroz_CenTech/blob/master/screenshots/6.png "Confirmation Page")
 
